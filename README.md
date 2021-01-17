@@ -6,7 +6,8 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 
 #### 🔭 I’m currently working on
 - [infrabot-io/infrabot](https://github.com/infrabot-io/infrabot) - telegram bot service to control IT infrastructure
-- [infrabot-io/infrabot-gui-tool](https://github.com/infrabot-io/infrabot-gui-tool) - GUI tool to easily configure telegram bot service
+- [infrabot-io/infrabot-config-editor](https://github.com/infrabot-io/infrabot-config-editor) - Easily configure telegram bot service configuration file
+- [infrabot-io/infrabot-plugins](https://github.com/infrabot-io/infrabot-plugins) - Plugin examples for infrabot
 
 
 #### 🔨 My other repositories
