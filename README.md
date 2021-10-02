@@ -12,6 +12,7 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 
 
 #### 🔨 My other repositories
+- [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - EasyJob - keep and execute your PowerShell scripts from one interface
 - [akshinmustafayev/Printer-Setup-System-Remastered](https://github.com/akshinmustafayev/Printer-Setup-System-Remastered) - Web application which allows users to install printers by themselves
 - [akshinmustafayev/Oper-Monitor-System](https://github.com/akshinmustafayev/Oper-Monitor-System) - Service which allows to collect information from computers via agents. May be useful when you need to find when and on which computer was user logged in
 - [akshinmustafayev/BalHesablayici](https://github.com/akshinmustafayev/BalHesablayici) - Application which was written for Windows Phone 8/8.1 and published on Microsoft Store
