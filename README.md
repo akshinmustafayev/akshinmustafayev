@@ -51,7 +51,8 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 #### ⚡ Fun fact
 Sysadmins love to pop bubble wrap because every bump is a user’s eye!
 
-
+[![Akshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshinmustafayev)](https://github.com/akshinmustafayev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshinmustafayev&layout=compact&langs_count=8)](https://github.com/akshinmustafayev/github-readme-stats)
 
 <!--
 **akshinmustafayev/akshinmustafayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
