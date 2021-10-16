@@ -54,6 +54,9 @@ Sysadmins love to pop bubble wrap because every bump is a user’s eye!
 [![Akshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshinmustafayev)](https://github.com/akshinmustafayev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshinmustafayev&layout=compact&langs_count=8)](https://github.com/akshinmustafayev/github-readme-stats)
 
+
+<a href="https://stackoverflow.com/users/11197092/akshin-mustafayev"><img src="https://stackoverflow.com/users/flair/11197092.png" width="208" height="58" alt="profile for Akshin Mustafayev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Akshin Mustafayev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <!--
 **akshinmustafayev/akshinmustafayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
