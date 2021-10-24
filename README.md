@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=akshinmustafayev&color=green&style=flat-square)
-<img align="right" src="/assets/me.png" width="320">
+<img align="right" src="/assets/it.gif" width="320">
 
 I`m Akshin, system administrator who likes to work on his projects out of work time. I am an author of [infrabot.io](https://infrabot.io) service.
 
@@ -52,7 +52,9 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 
 
 #### ⚡ Fun fact
-Sysadmins love to pop bubble wrap because every bump is a user’s eye!
+Never open server room doors without a permission, because:<br>
+<img src="/assets/server_room_guy.gif" width="320">
+
 
 [![Akshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshinmustafayev)](https://github.com/akshinmustafayev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshinmustafayev&layout=compact&langs_count=8)](https://github.com/akshinmustafayev/github-readme-stats)
