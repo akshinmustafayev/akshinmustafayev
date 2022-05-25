@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=akshinmustafayev&color=green&style=flat-square)
-<img align="right" src="/assets/it.gif" width="320">
+
+<img style="float: right;" src="/assets/it.gif">
 
 I`m Akshin, system administrator who likes to work on his projects out of work time. I am an author of [infrabot.io](https://infrabot-io.github.io/index.html) service.
 
