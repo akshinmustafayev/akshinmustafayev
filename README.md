@@ -11,8 +11,6 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 - [akshinmustafayev/EasyJobPSTools](https://github.com/akshinmustafayev/EasyJobPSTools) - EasyJobPSTools - is a PowerShell Module which enables Graphic features for your scripts
 - [akshinmustafayev/SecureSpherePS](https://github.com/akshinmustafayev/SecureSpherePS) - PowerShell Module to manage Imperva SecureSphere 13.6. Automate and control your Imperva WAF with PowerShell.
 - [infrabot-io/infrabot](https://github.com/infrabot-io/infrabot) - telegram bot service to control IT infrastructure
-- [infrabot-io/infrabot-config-editor](https://github.com/infrabot-io/infrabot-config-editor) - Easily configure telegram bot service configuration file
-- [infrabot-io/infrabot-plugins](https://github.com/infrabot-io/infrabot-plugins) - Plugin examples for infrabot
 
 
 #### 🔨 My other repositories
@@ -47,13 +45,11 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 #### 📫 How to reach me:
 - FB: https://facebook.com/akshin.mustafayev
 - LinkedIn: https://www.linkedin.com/in/akshinmustafayev/
-- Mail 1: akshin1995@outlook.com
-- Mail 2: infrabot@infrabot.io
-- Mail 3: admin@infrabot.io
+- Mail: akshin1995@outlook.com
 
 
 #### ⚡ Fun fact
-Never open server room doors without a permission, because:<br>
+Never open server room doors without a permission, because there is always a server room guy and you would get:<br>
 <img src="/assets/server_room_guy.gif" width="320">
 
 
@@ -63,17 +59,3 @@ Never open server room doors without a permission, because:<br>
 
 <a href="https://stackoverflow.com/users/11197092/akshin-mustafayev"><img src="https://stackoverflow.com/users/flair/11197092.png" width="208" height="58" alt="profile for Akshin Mustafayev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Akshin Mustafayev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<!--
-**akshinmustafayev/akshinmustafayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
