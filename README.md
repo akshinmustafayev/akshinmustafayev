@@ -23,12 +23,12 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 
 #### 📜 My recent blog posts
 - [Manage IT infrastructure using Telegram bot or infrabot.io](https://infrabot.medium.com/manage-it-infrastructure-using-telegram-bot-or-infrabot-io-7fdc95a00a9c)
-- [Служба для управления инфраструктурой с помощью Telegram бота или infrabot.io](https://habr.com/en/post/534884/)
-- [Система установки принтеров для организации — PrintDesk — Обновленная версия](https://habr.com/en/post/505406/)
-- [Самый худший UI управления громкостью звука](https://habr.com/en/post/449060/)
-- [Как мне удалось взломать приложение](https://habr.com/en/post/344922/)
-- [Как я создал систему мониторинга за компьютерами на работе и перенес сервис на Amazon AWS](https://habr.com/en/post/336276/)
-- [Как я создал систему установки принтеров на работе](https://habr.com/en/post/333056/)
+- [Service for infrastructure management using Telegram bot or infrabot.io](https://habr.com/en/post/534884/)
+- [Enterprise Printer Installer - PrintDesk - Updated Version](https://habr.com/en/post/505406/)
+- [Worst sound volume control UI ever](https://habr.com/en/post/449060/)
+- [How did I manage to hack the app](https://habr.com/en/post/344922/)
+- [How I created a monitoring system for computers at work and transferred the service to Amazon AWS](https://habr.com/en/post/336276/)
+- [How I Created a Printer Installation System at Work](https://habr.com/en/post/333056/)
 
 
 #### 🌱 I’m currently learning
