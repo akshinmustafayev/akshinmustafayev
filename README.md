@@ -21,7 +21,7 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 - [akshinmustafayev/Useful-Scripts-for-SysAdmin](https://github.com/akshinmustafayev/Useful-Scripts-for-SysAdmin) - Small scripts for SysAdmins
 
 
-#### 📜 My recent blog posts
+#### 📜 My blog posts
 - [Manage IT infrastructure using Telegram bot or infrabot.io](https://infrabot.medium.com/manage-it-infrastructure-using-telegram-bot-or-infrabot-io-7fdc95a00a9c)
 - [Service for infrastructure management using Telegram bot or infrabot.io](https://habr.com/en/post/534884/)
 - [Enterprise Printer Installer - PrintDesk - Updated Version](https://habr.com/en/post/505406/)
