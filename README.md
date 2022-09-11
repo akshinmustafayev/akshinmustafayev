@@ -8,6 +8,7 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 
 #### 🔭 I’m currently working on
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - EasyJob - keep and execute your PowerShell scripts from one interface
+- [akshinmustafayev/EasyJobInfraCode](https://github.com/akshinmustafayev/EasyJobInfraCode) - EasyJobInfraCode - is a Lightweight automation tool, performs administrative tasks using yaml playbooks
 - [akshinmustafayev/EasyJobPSTools](https://github.com/akshinmustafayev/EasyJobPSTools) - EasyJobPSTools - is a PowerShell Module which enables Graphic features for your scripts
 - [akshinmustafayev/SecureSpherePS](https://github.com/akshinmustafayev/SecureSpherePS) - PowerShell Module to manage Imperva SecureSphere 13.6. Automate and control your Imperva WAF with PowerShell.
 - [infrabot-io/infrabot](https://github.com/infrabot-io/infrabot) - telegram bot service to control IT infrastructure
