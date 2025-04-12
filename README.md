@@ -1,58 +1,35 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=akshinmustafayev&color=green&style=flat-square)
+### Hey there 👋
 
-<img style="float: right;" src="/assets/it.gif">
+![Profile Views](https://komarev.com/ghpvc/?username=akshinmustafayev&color=green&style=flat-square)
 
-I`m Akshin, Site Reliability Engineer who likes to work on his projects out of work time. I am an author of [infrabot.io](https://infrabot-io.github.io/index.html) service.
+<img align="right" src="/assets/it.gif" width="150">
 
+I'm **Akshin Mustafayev**, a Site Reliability Engineer based in Canada 🇨🇦. I spend my time designing tools that simplify infrastructure operations — usually before coffee kicks in.
 
-#### 🔭 I’m currently working on
-- [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - EasyJob - keep and execute your PowerShell scripts from one interface
-- [akshinmustafayev/EasyJobInfraCode](https://github.com/akshinmustafayev/EasyJobInfraCode) - EasyJobInfraCode - is a Lightweight automation tool, performs administrative tasks using yaml playbooks
-- [akshinmustafayev/EasyJobPSTools](https://github.com/akshinmustafayev/EasyJobPSTools) - EasyJobPSTools - is a PowerShell Module which enables Graphic features for your scripts
-- [akshinmustafayev/SecureSpherePS](https://github.com/akshinmustafayev/SecureSpherePS) - PowerShell Module to manage Imperva SecureSphere 13.6. Automate and control your Imperva WAF with PowerShell.
-- [infrabot-io/infrabot](https://github.com/infrabot-io/infrabot) - telegram bot service to control IT infrastructure
+I’m also the creator of **[Infrabot](https://infrabot-io.github.io/index.html)**, a Telegram-based infrastructure management service used to control IT systems through chat commands.
 
+---
 
-#### 🔨 My other repositories
-- [akshinmustafayev/Printer-Setup-System-Remastered](https://github.com/akshinmustafayev/Printer-Setup-System-Remastered) - Web application which allows users to install printers by themselves
-- [akshinmustafayev/Plash](https://github.com/akshinmustafayev/Plash) - PowerShell module for automation tasks
-- [akshinmustafayev/Oper-Monitor-System](https://github.com/akshinmustafayev/Oper-Monitor-System) - Service which allows to collect information from computers via agents. May be useful when you need to find when and on which computer was user logged in
-- [akshinmustafayev/BalHesablayici](https://github.com/akshinmustafayev/BalHesablayici) - Application which was written for Windows Phone 8/8.1 and published on Microsoft Store
-- [akshinmustafayev/Useful-Scripts-for-SysAdmin](https://github.com/akshinmustafayev/Useful-Scripts-for-SysAdmin) - Small scripts for SysAdmins
+### 🚀 Projects I’m working on
 
+- 🔧 [**EasyJob**](https://github.com/akshinmustafayev/EasyJob) – One interface to keep, organize, and run your PowerShell scripts  
+- ⚙️ [**EasyJobInfraCode**](https://github.com/akshinmustafayev/EasyJobInfraCode) – Lightweight task automation via YAML-based playbooks  
+- 🖼 [**EasyJobPSTools**](https://github.com/akshinmustafayev/EasyJobPSTools) – Adds graphical UI support to PowerShell scripts  
+- 🛡 [**SecureSpherePS**](https://github.com/akshinmustafayev/SecureSpherePS) – Automate Imperva SecureSphere WAF with PowerShell  
+- 🤖 [**Infrabot**](https://github.com/infrabot-io/infrabot) – Telegram bot to manage IT infrastructure hands-free  
 
-#### 📜 My blog posts
-- [Manage IT infrastructure using Telegram bot or infrabot.io](https://infrabot.medium.com/manage-it-infrastructure-using-telegram-bot-or-infrabot-io-7fdc95a00a9c)
-- [Service for infrastructure management using Telegram bot or infrabot.io](https://habr.com/en/post/534884/)
-- [Enterprise Printer Installer - PrintDesk - Updated Version](https://habr.com/en/post/505406/)
-- [Worst sound volume control UI ever](https://habr.com/en/post/449060/)
-- [How did I manage to hack the app](https://habr.com/en/post/344922/)
-- [How I created a monitoring system for computers at work and transferred the service to Amazon AWS](https://habr.com/en/post/336276/)
-- [How I Created a Printer Installation System at Work](https://habr.com/en/post/333056/)
+---
 
+### 🧰 Other projects
 
-#### 🌱 I’m currently learning
-- .Net Core
+- 🖨 [**Printer Setup System**](https://github.com/akshinmustafayev/Printer-Setup-System-Remastered) – Self-service printer installer  
+- 🔄 [**Plash**](https://github.com/akshinmustafayev/Plash) – PowerShell automation toolkit  
+- 📡 [**Oper Monitor System**](https://github.com/akshinmustafayev/Oper-Monitor-System) – Track user logins across computers  
+- 🧮 [**BalHesablayici**](https://github.com/akshinmustafayev/BalHesablayici) – Windows Phone GPA calculator  
+- 🛠 [**Useful Scripts**](https://github.com/akshinmustafayev/Useful-Scripts-for-SysAdmin) – Handy tools for sysadmins  
 
+---
 
-#### 💬 Feedback
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved.
+### ✍️ Blog posts
 
-
-#### 📫 How to reach me:
-- FB: https://facebook.com/akshin.mustafayev
-- LinkedIn: https://www.linkedin.com/in/akshinmustafayev/
-
-
-#### ⚡ Fun fact
-Never open the server room without permission… there's always someone in the shadows, silently judging your life choices.<br>
-<img src="/assets/server_room_guy.gif" width="320">
-
-
-[![Akshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshinmustafayev)](https://github.com/akshinmustafayev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshinmustafayev&layout=compact&langs_count=8)](https://github.com/akshinmustafayev/github-readme-stats)
-
-
-<a href="https://stackoverflow.com/users/11197092/akshin-mustafayev"><img src="https://stackoverflow.com/users/flair/11197092.png" width="208" height="58" alt="profile for Akshin Mustafayev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Akshin Mustafayev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
+- [How I manage IT infrastructure with Telegram bot](https://infrabot.medium.com/manage-it-infrastructure-using-telegram-bot-or-infrabot-io-7fdc95a00a9c)  
