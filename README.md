@@ -50,7 +50,7 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 
 
 #### ⚡ Fun fact
-Never open server room doors without a permission, because there is always a server room guy and you would get:<br>
+Never open the server room without permission… there's always someone in the shadows, silently judging your life choices.<br>
 <img src="/assets/server_room_guy.gif" width="320">
 
 
