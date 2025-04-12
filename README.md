@@ -3,7 +3,7 @@
 
 <img style="float: right;" src="/assets/it.gif">
 
-I`m Akshin, system administrator who likes to work on his projects out of work time. I am an author of [infrabot.io](https://infrabot-io.github.io/index.html) service.
+I`m Akshin, Site Reliability Engineer who likes to work on his projects out of work time. I am an author of [infrabot.io](https://infrabot-io.github.io/index.html) service.
 
 
 #### 🔭 I’m currently working on
@@ -33,10 +33,7 @@ I`m Akshin, system administrator who likes to work on his projects out of work t
 
 
 #### 🌱 I’m currently learning
-- Red Hat
-- Docker
-- Kubernetes
-- Ansible
+- .Net Core
 
 
 #### 💬 Feedback
@@ -46,7 +43,6 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 #### 📫 How to reach me:
 - FB: https://facebook.com/akshin.mustafayev
 - LinkedIn: https://www.linkedin.com/in/akshinmustafayev/
-- Mail: akshin1995@outlook.com
 
 
 #### ⚡ Fun fact
