@@ -63,3 +63,11 @@ If you're into technical war stories, weird bugs, or infrastructure hacks:
 - kubernetes_advanced
 - distributed_system_fine_tuning
 - yaml_hate_management
+````
+
+---
+
+## ⚡ Fun fact
+<img align="right" src="/assets/server_room_guy.gif" width="220">
+Never open the server room without permission… there's always someone in the shadows, silently judging your life choices.<br>
+ 
